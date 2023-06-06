@@ -7,7 +7,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/PICT-PBL-6-2021-22/public_health_record_management_system
+  git clone https://github.com/onlysachd/Public-Health-Management-System/tree/master
 ```
 
 Go to the project directory
